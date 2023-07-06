@@ -18,7 +18,7 @@
 	memberList.add(joinMember);	
 	out.println("<script>");
 	out.println("alert('회원가입 성공');");
-	out.println("location.href='index.jsp';");
+	out.println("location.href='index.jsp?page=login';");
 	out.println("</script>");
 %>
 
