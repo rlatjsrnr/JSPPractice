@@ -51,7 +51,7 @@
  		<tr>
  			<td>나이</td>
  			<td>
- 				<%=loginMember.getAge() %>
+ 				<%=loginMember.getAge()%>
  			</td>
  		</tr>
  		<tr>
